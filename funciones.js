@@ -4,4 +4,4 @@ const sprint_B = 'bbb'
 // sprint en curso.
 const sprint_C = 'ccc' + 'C'
 // EN PROGRESO
-const sprint_D = ''
+const sprint_D = '...'
