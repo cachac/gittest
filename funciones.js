@@ -9,3 +9,4 @@ const sprint_E = null
 const sprint_D = 'ddd'
 /* NUEVAS FUNCIONES 2020*/
 const sprint_G = 'ggg' + '++' + 'finOK'
+
