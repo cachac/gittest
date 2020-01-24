@@ -11,3 +11,4 @@ const sprint_D = 'ddd'
 const sprint_G = 'ggg' + '++' + 'finOK'
 const sprint_Z = 'zzz fin'
 // codigo organizado!!
+const sprintW = 'cambio corto: W'
