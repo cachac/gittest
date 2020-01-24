@@ -13,3 +13,4 @@ const sprint_Z = 'zzz fin'
 // codigo organizado!!
 const sprintW = 'cambio corto: W'
 // codigo organizado!! ++
+const sprintW2 = 'Ww'
