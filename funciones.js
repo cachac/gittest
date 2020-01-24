@@ -10,9 +10,6 @@ const sprint_D = 'ddd'
 /* NUEVAS FUNCIONES 2020*/
 const sprint_G = 'ggg' + '++' + 'finOK'
 const sprint_Z = 'zzz fin'
-<<<<<<< HEAD
 // codigo organizado!!
 const sprintW = 'cambio corto: W'
-=======
 // codigo organizado!! ++
->>>>>>> 702965563c2d076f6dc9ee607bbd585c6fea30e5
