@@ -10,4 +10,4 @@ const sprint_D = 'ddd'
 /* NUEVAS FUNCIONES 2020*/
 const sprint_G = 'ggg' + '++' + 'finOK'
 const sprint_Z = 'zzz fin'
-// codigo organizado!!
+// codigo organizado!! ++
